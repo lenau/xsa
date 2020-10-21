@@ -1,0 +1,12 @@
+#ServiceDestination 
+Description=SAP Front-End Server Development
+Type=HTTPS
+TrustAll=true
+Authentication=NoAuthentication
+Name=FSD
+sap-client=100
+ProxyType=internet
+URL=https\://fsdhost.wdf.sap.corp\:44311
+WebIDEUsage=odata_abap,ui5_execute_abap,dev_abap
+WebIDESystem=FSD
+WebIDEEnabled=true
