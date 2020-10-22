@@ -11,15 +11,14 @@ WebIDEUsage=odata_abap,ui5_execute_abap,dev_abap
 WebIDESystem=FSD
 WebIDEEnabled=true
 
-
 {
   "uaa": {
     "tenantmode": "dedicated",
     "sburl": "https://internal-xsuaa.authentication.eu10.hana.ondemand.com",
     "subaccountid": "d7d306f5-47c3-436e-bcc1-fa0ea6d5dd60",
-    "clientid": "sb-d6afb791-4e0c-411a-9500-e9ab3d427d8f!b55059|abap-trial-service-broker!b18391",
-    "xsappname": "d6afb791-4e0c-411a-9500-e9ab3d427d8f!b55059|abap-trial-service-broker!b18391",
-    "clientsecret": "futEjKhQLS6ydBxihONPhWm7REk=",
+    "clientid": "sb-5882c3f6-7df1-4d4c-943a-374024871408!b55059|abap-trial-service-broker!b18391",
+    "xsappname": "5882c3f6-7df1-4d4c-943a-374024871408!b55059|abap-trial-service-broker!b18391",
+    "clientsecret": "OkSIAp3zMePTfKF5MsjmCzoutUQ=",
     "url": "https://ab3cd8b2trial.authentication.eu10.hana.ondemand.com",
     "uaadomain": "authentication.eu10.hana.ondemand.com",
     "verificationkey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw77fyP1gc3vxaesmDmzK3n+OZvWnnu4cNsiezgZNIkCktw/f/pqkNByYGecvNkebSb/FjlAZbfAV2F+A/v1XMg0djRugHbcsWKhYAm7okfRVLg9UUdcg6n7+HPpHHrdWWsfG8P7w6yovU6luqUADZzCbwz7SAb645AlZmrHoYc5nlxw4qYrU1UPaJFLAVSacvTzbUuqidOZvaxv6Yz5xShywVeKtNIQ7I1PoHaauVpq+Y8zOT5dyMuRbvHcx5eL+ULlIC9f7jK0v8l5lmRL2Ld3riU9VPEbEZ9Ms4YDfB4DNlGI1ZZHtRWE8B2NORe73XQpV8HJ+jZuEp5Wwun+GDwIDAQAB-----END PUBLIC KEY-----",
@@ -29,11 +28,11 @@ WebIDEEnabled=true
     "tenantid": "d7d306f5-47c3-436e-bcc1-fa0ea6d5dd60",
     "zoneid": "d7d306f5-47c3-436e-bcc1-fa0ea6d5dd60"
   },
-  "url": "https://e478ca1c-d502-4b7f-a72b-78a4f5447844.abap.eu10.hana.ondemand.com",
+  "url": "https://c3772e9b-cf8b-47b3-a82e-ec20b2fecfb3.abap.eu10.hana.ondemand.com",
   "sap.cloud.service": "com.sap.cloud.abap",
   "systemid": "TRL",
   "endpoints": {
-    "abap": "https://e478ca1c-d502-4b7f-a72b-78a4f5447844.abap.eu10.hana.ondemand.com"
+    "abap": "https://c3772e9b-cf8b-47b3-a82e-ec20b2fecfb3.abap.eu10.hana.ondemand.com"
   },
   "catalogs": {
     "abap": {
@@ -45,7 +44,7 @@ WebIDEEnabled=true
     "env": "cf",
     "version": "1.0.1.1",
     "type": "oauth",
-    "id": "02275c2b-2cb7-4f06-b9e0-8c4a7c7f4ee9"
+    "id": "02576768-3e53-43f2-a998-6ba8bb84b332"
   },
   "preserve_host_header": true
 }
