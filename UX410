@@ -12,3 +12,6 @@ WebIDEEnabled = true
 WebIDEUsage: dev_abap,odata_abap,ui5_execute_abap,bsp_execute_abap
 HTML5.DynamicDestination = true
 HTML5.Timeout = 60000
+
+
+https://blogs.sap.com/2013/11/21/useful-keyboard-shortcuts-for-abap-in-eclipse/
